@@ -1,3 +1,41 @@
+# Curso de Laravel 8
+## Hora de Codar (Matheus Battisti)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
+
+### Lista de aulas  
+
+Aula 01 - Introdução  
+Aula 02 - Instalação  
+Aula 03 - Rotas e Views  
+Aula 04 - Conhecendo o Blade  
+Aula 05 - Avançando na template engine Blade (loop)  
+Aula 06 - Adicionando arquivos estáticos  
+Aula 07 - Criando layout com blade  
+Aula 08 - Resgatando parâmetros de URL  
+Aula 09 - Criando Controllers  
+Aula 10 - Conexão ao banco de dados MySQL  
+Aula 11 - Introdução a migrations do Laravel  
+Aula 12 - Avançando em migrations do Laravel  
+Aula 13 - Utilizando o Eloquent do Laravel  
+Aula 14 - Finalizando a home  
+Aula 15 - Salvando dados no banco MySQL  
+Aula 16 - Conhecendo as Flash Messages  
+Aula 17 - Upload de imagens com Laravel  
+Aula 18 - Resgatando um registro do banco de dados  
+Aula 19 - Salvando JSON no banco de dados  
+Aula 20 - Salvando datas no banco de dados  
+Aula 21 - Busca no Laravel  
+Aula 22 - Autenticação no Laravel  
+Aula 23 - Relação One to Many  
+Aula 24 - Exibindo dados do usuário na view  
+Aula 25 - Criando uma dashboard  
+Aula 26 - Deletando dados (CRUD Delete)  
+Aula 27 - Atualização de dados (CRUD Update)  
+Aula 28 - Relação many to many  
+Aula 29 - Exibindo eventos do usuário  
+Aula 30 - Removendo presença do evento  
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
