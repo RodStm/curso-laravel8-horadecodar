@@ -1,9 +1,13 @@
 # Curso de Laravel 8
 ## Hora de Codar (Matheus Battisti)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - ### [Vídeos do curso](https://www.youtube.com/watch?v=qH7rsZBENJo&list=PLnDvRpP8BnewYKI1n2chQrrR4EYiJKbUG)  
 
 Aula 01 - Introdução  
 Aula 02 - Instalação  
